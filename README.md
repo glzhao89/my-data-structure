@@ -1,2 +1,2 @@
 # my-data-structure
-*Common Data structure for practice *
+*Common Data structure for practice*
